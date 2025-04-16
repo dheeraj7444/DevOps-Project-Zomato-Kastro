@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: zomato
-        image: kastrov/zomato:latest
+        image: dheeraj7444/zomato:13
         ports:
         - containerPort: 3000
